@@ -2,5 +2,5 @@
 
 <h3 align="center">SNS & Email</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+ <a href="https://velog.io/@zzzang_hyeon"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
  
