@@ -18,9 +18,11 @@
   <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=plastic&logo=oracle&logoColor=white"> 
-  
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=plastic&logo=Gradle&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=black"> 
-  
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=Thymeleaf&logoColor=white"> 
+
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white"> 
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
