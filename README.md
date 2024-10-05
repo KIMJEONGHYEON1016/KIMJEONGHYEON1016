@@ -41,7 +41,7 @@
 </div>
 <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parksaehyun&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parksaehyun&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KIMJEONGHYEON&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMJEONGHYEON&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
