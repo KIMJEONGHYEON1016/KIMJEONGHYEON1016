@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"> 
 
-
   <br><br>
 </div>
 <br><br>
