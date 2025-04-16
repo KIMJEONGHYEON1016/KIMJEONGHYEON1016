@@ -10,7 +10,6 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=java&logoColor=white"> 
-  
 
  
   <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white"> 
